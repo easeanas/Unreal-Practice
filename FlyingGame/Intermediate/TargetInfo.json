@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FlyingGame",
+			"Path": "C:\\Users\\anaea\\Documents\\Unreal Projects\\FlyingGame\\Source\\FlyingGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FlyingGameEditor",
+			"Path": "C:\\Users\\anaea\\Documents\\Unreal Projects\\FlyingGame\\Source\\FlyingGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

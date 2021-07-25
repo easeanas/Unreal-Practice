@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FlyingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1C33EF22-104F-4FE6-B1F4-3A79D64E2E8C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FlyingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FlyingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D4BBEFC6-B88F-4A0B-8BDB-7D30E267C524}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FlyingGame">
+      <UniqueIdentifier>{66B42A11-A290-4BFE-BA40-C9BC1A21852F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FlyingGame\FlyingGame.Build.cs">
+      <Filter>Source\FlyingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FlyingGame\FlyingGame.cpp">
+      <Filter>Source\FlyingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FlyingGame\FlyingGame.h">
+      <Filter>Source\FlyingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FlyingGame\Goal.cpp">
+      <Filter>Source\FlyingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FlyingGame\Goal.h">
+      <Filter>Source\FlyingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FlyingGame\NextLevelTrigger.cpp">
+      <Filter>Source\FlyingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FlyingGame\NextLevelTrigger.h">
+      <Filter>Source\FlyingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FlyingGame\spaceship.cpp">
+      <Filter>Source\FlyingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FlyingGame\spaceship.h">
+      <Filter>Source\FlyingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
