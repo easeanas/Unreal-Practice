@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\anaea\\source\\repos\\Unreal-Practice\\RollingGame\\Source\\RollingGame\\RollingGame.Build.cs",
+		"C:\\Users\\anaea\\source\\repos\\Unreal-Practice\\RollingGame\\Source\\RollingGame.Target.cs",
+		"C:\\Users\\anaea\\source\\repos\\Unreal-Practice\\RollingGame\\Source\\RollingGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

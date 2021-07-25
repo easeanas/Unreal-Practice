@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RollingGame",
+			"Path": "C:\\Users\\anaea\\source\\repos\\Unreal-Practice\\RollingGame\\Source\\RollingGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RollingGameEditor",
+			"Path": "C:\\Users\\anaea\\source\\repos\\Unreal-Practice\\RollingGame\\Source\\RollingGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
