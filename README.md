@@ -1,2 +1,4 @@
-# Unreal-Practice
-Learning to use Unreal Engine
+# Flying Game
+Comp313 - Assignment 1
+Anastasia Ease
+
