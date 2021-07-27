@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Binary Files
+Binaries/*
+Plugins/*/Binaries/*
+
+# Builds
+Build/*
