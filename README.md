@@ -20,3 +20,8 @@ To do this I ended up storing the score variable in the FlyingGame class, to mak
 The most interesting part of the game is the movement of the "badpoints". These points damage the player and make them lose points. 
 They move from left to right continuously to make it harder for the player to avoid running into them. I found this the most interesting
 because I think it adds more dynamic to the game and creates a challenge. It was also the most interesting to figure out how to implement.
+
+## Special Notes:
+Because of gitgubs file size limit, some files could not be pushed. To fix this I had to use a cleaning tool (BFG Repo-Cleaner) to clean up my commits 
+so that they could be pushed. This means some files are missing (such as backgroundMusic.uasset). Most of these files are non-essential but the game 
+may not work the same as it does in the video.
