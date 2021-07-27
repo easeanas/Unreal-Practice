@@ -8,7 +8,7 @@ Video: https://drive.google.com/file/d/1RiifgY2PbK6-i0Jwkd0E673DCDZBagfi/view?us
 All music and sound effects found on https://freesound.org/
 
 ## Game description:
-The main action in the game is to fly through the map collecting the good points and avoiding the badpoint NPCs that move around. 
+The main action in the game is to fly through the map collecting the good points and avoiding the badpoints that move around. 
 The goal is to reach the final checkpoint to progress to the next level or finish the game.
 
 
